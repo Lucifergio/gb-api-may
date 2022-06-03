@@ -12,6 +12,7 @@ import java.util.List;
  * created at 27.05.2022
  **/
 public interface CategoryGateway {
+
     @GetMapping
     List<CategoryDto> getCategoryList();
 
