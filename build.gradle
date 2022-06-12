@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'ru.gb'
-version = '0.0.8'
+version = '0.0.9.2'
 sourceCompatibility = '11'
 
 configurations {
@@ -21,7 +21,7 @@ repositories {
 }
 
 ext {
-    set('springCloudVersion', "2021.0.3-SNAPSHOT")
+    set('springCloudVersion', "2021.0.3")
 }
 
 dependencies {

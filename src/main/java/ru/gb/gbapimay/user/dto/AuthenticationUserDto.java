@@ -1,4 +1,4 @@
-package ru.gb.gbapimay.security;
+package ru.gb.gbapimay.user.dto;
 
 import lombok.*;
 
